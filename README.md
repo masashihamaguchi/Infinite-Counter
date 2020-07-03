@@ -5,6 +5,7 @@ Friday Android チェックワーク
 ## infinitecounterとは？
 1つの画面にいくつもカウンターを並べられるアプリです。
 
+![完成イメージ](https://github.com/masashihamaguchi/Infinite-Counter/blob/master/image.png "完成イメージ")
 
 ## 準備・進め方
 
@@ -12,13 +13,14 @@ Friday Android チェックワーク
 ターミナルもしくはCMDを開いて、任意のプロジェクトをクローンするディレクトリーに移動します。
 下のコードを入れます。
 ```
-git clone http://xxxxxxxxxxxxx
+git clone https://github.com/masashihamaguchi/Infinite-Counter
 ```
 クローンできたらAndroid Studioでプロジェクトを開きます。
 
 ※Githubから直接zipでダウンロードもできます。
 
 ## チェックワーク
+準備ができたら順番にチェックワークを進めよう！
 
 ### 1. Counterクラスを完成させよう
 ファイル名：`Counter.java`
