@@ -5,7 +5,7 @@ Friday Android チェックワーク
 ## infinitecounterとは？
 1つの画面にいくつもカウンターを並べられるアプリです。
 
-![完成イメージ](https://github.com/masashihamaguchi/Infinite-Counter/blob/master/image.png "完成イメージ")
+<img src="https://github.com/masashihamaguchi/Infinite-Counter/blob/master/image.png" width="320px" alt="完成イメージ">
 
 ## 準備・進め方
 
