@@ -50,10 +50,10 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(mLayoutManager);
 
         // TODO ③ Counter Adapterを初期化する。（引数はContextとcounterList）：難しかったらヒント
-        adapter = new CounterAdapter(this, counterList);
+
 
         // TODO ④ recyclerViewにadapter(CounterAdapter)をセットする
-        recyclerView.setAdapter(adapter);
+
 
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -67,16 +67,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // TODO ② firstSetメソッドを作る
-    public void firstSet() {
 
-        // TODO counterListにCounterクラスを3つ追加する
-        // for分を使って！
-
-        for (int i = 0; i < 3; i++) {
-            counterList.add(new Counter());
-        }
-
-    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

@@ -17,13 +17,7 @@ class Counter {
 
     // 数字のカウント
     // TODO ① plusメソッド・minusメソッドを追加しよう
-    public void plus() {
-        number++;
-    }
 
-    public void minus() {
-        number--;
-    }
 
     // Getter and Setter
     public String getName() {
