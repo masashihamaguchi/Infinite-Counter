@@ -1,11 +1,13 @@
-# InfiniteCounterを完成させよう
+# Infinite Counterを完成させよう
 
 Friday Android チェックワーク
 
-## infinitecounterとは？
+## Infinite Counterとは？
 1つの画面にいくつもカウンターを並べられるアプリです。
 
 <img src="https://github.com/masashihamaguchi/Infinite-Counter/blob/master/image.png" width="320px" alt="完成イメージ">
+
+アプリはほとんど完成しているのでチェックワークを行って最後まで完成させましょう！
 
 ## 準備・進め方
 
